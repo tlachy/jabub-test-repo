@@ -1,6 +1,0 @@
-#!/usr/bin/env -S java --source 24 --enable-preview
-
-
-void main() {
-    System.out.println("Hello, World!");
-}
